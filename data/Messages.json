@@ -5,7 +5,7 @@
     "to": "employees",
     "fromType": "user",
     "senderName": "Mohamad Allah",
-    "text": "ÃÂÃÂÃÂÃÂ±ÃÂÃÂ­ÃÂÃÂ¨ÃÂÃÂ§",
+    "text": "ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ±ÃÂÃÂÃÂÃÂ­ÃÂÃÂÃÂÃÂ¨ÃÂÃÂÃÂÃÂ§",
     "time": "2026-05-08T22:32:33.026Z",
     "read": false
   },
@@ -15,7 +15,7 @@
     "to": "u_1778279451944",
     "fromType": "employee",
     "senderName": "Ahmed Al-Denver",
-    "text": "ÃÂÃÂ§ÃÂ³",
+    "text": "ÃÂÃÂÃÂÃÂ§ÃÂÃÂ³",
     "time": "2026-05-08T22:33:04.899Z",
     "read": false
   },
@@ -25,7 +25,7 @@
     "to": "employees",
     "fromType": "user",
     "senderName": "Mohamad Allah",
-    "text": "ÙØ§Ù",
+    "text": "ÃÂÃÂ§ÃÂ",
     "time": "2026-05-08T22:33:35.172Z",
     "read": false
   },
@@ -35,7 +35,7 @@
     "to": "u_1778279451944",
     "fromType": "employee",
     "senderName": "Ahmed Al-Denver",
-    "text": "٧٧ث٧ث",
+    "text": "Ù§Ù§Ø«Ù§Ø«",
     "time": "2026-05-08T22:34:21.379Z",
     "read": false
   },
@@ -45,8 +45,18 @@
     "to": "u_1778279451944",
     "fromType": "employee",
     "senderName": "Ahmed Al-Denver",
-    "text": "نظيميميم",
+    "text": "ÙØ¸ÙÙÙÙÙÙ",
     "time": "2026-05-08T22:34:25.248Z",
+    "read": false
+  },
+  {
+    "id": "m_1778279688998",
+    "from": "emp001",
+    "to": "u_1778279525799",
+    "fromType": "employee",
+    "senderName": "Ahmed Al-Denver",
+    "text": "٧ث٧ثهث",
+    "time": "2026-05-08T22:34:48.998Z",
     "read": false
   }
 ]
