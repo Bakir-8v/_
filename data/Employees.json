@@ -1,0 +1,26 @@
+[
+  {
+    "id": "emp001",
+    "name": "Ahmed Al-Denver",
+    "email": "ahmed@denver-studio.com",
+    "role": "Designer",
+    "code": "DENVER2024",
+    "avatar": "AD"
+  },
+  {
+    "id": "emp002",
+    "name": "Sara Creative",
+    "email": "sara@denver-studio.com",
+    "role": "Photo Editor",
+    "code": "SARA5678",
+    "avatar": "SC"
+  },
+  {
+    "id": "emp003",
+    "name": "Omar Studio",
+    "email": "omar@denver-studio.com",
+    "role": "Manager",
+    "code": "MANAGER99",
+    "avatar": "OS"
+  }
+]
