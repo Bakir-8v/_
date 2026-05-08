@@ -38,5 +38,15 @@
     "text": "٧٧ث٧ث",
     "time": "2026-05-08T22:34:21.379Z",
     "read": false
+  },
+  {
+    "id": "m_1778279665247",
+    "from": "emp001",
+    "to": "u_1778279451944",
+    "fromType": "employee",
+    "senderName": "Ahmed Al-Denver",
+    "text": "نظيميميم",
+    "time": "2026-05-08T22:34:25.248Z",
+    "read": false
   }
 ]
