@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "id": "m_1778279553026",
+    "from": "u_1778279525799",
+    "to": "employees",
+    "fromType": "user",
+    "senderName": "Mohamad Allah",
+    "text": "مرحبا",
+    "time": "2026-05-08T22:32:33.026Z",
+    "read": false
+  }
+]
